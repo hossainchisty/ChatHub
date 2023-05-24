@@ -1,4 +1,4 @@
-### ChatHub
+### ChatHub💬
 
 ChatHub is a cutting-edge chat application that combines the power of Node.js, Socket.io, and React to deliver an immersive and seamless chatting experience. With ChatHub, users can connect with friends, colleagues, and loved ones in real-time.
 
