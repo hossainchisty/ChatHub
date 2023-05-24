@@ -1,0 +1,81 @@
+.bg1 {
+  background: #19c37d;
+}
+.bg2 {
+  background: #353740;
+}
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+::placeholder {
+  font-size: 90%;
+}
+body {
+  background: #000000;
+  padding: 50px;
+  overflow-y: hidden;
+}
+.box-main {
+  width: 285px;
+  height: 550px;
+  background: #2b2f44;
+  margin: auto;
+  border-radius: 25px;
+}
+.box-header {
+  width: 100%;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  height: 52px;
+}
+.box-content {
+  width: 100%;
+  height: calc(100% - 104px);
+  overflow-y: scroll;
+}
+.box-messenger {
+  max-width: 90%;
+  border-radius: 15px;
+}
+.text-messenger {
+  color: rgb(255, 255, 255);
+  font-size: 90% !important;
+}
+.box-bottom {
+  width: 100%;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  height: 52px;
+  display: flex;
+}
+.box-input {
+  width: 80%;
+  height: 37px;
+}
+.input-text {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  border: 0;
+  outline: none;
+}
+.reply-button {
+  width: 100%;
+  height: 37px;
+  border-radius: 15px;
+  border: 0;
+  background-color: #19c37d;
+  color: #fff;
+}
+.button-icon {
+  line-height: 37px;
+}
+.box-button {
+  width: 20%;
+}
+
+.text-muted {
+  color: #fff;
+}
